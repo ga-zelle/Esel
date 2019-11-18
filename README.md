@@ -8,6 +8,7 @@ Purpose
 	
 	
 Usage	
+
 	Modify the smoothing factors in sheet „1st_Result“ (yellow cells) and watch how the green curve changes immediately.
 	This way you can draw your own conclusions which set of smoothing facors fits your needs.
 	Hint: if you have a large monitor (or 2 of them) you can display both tabs simultaneously and see the effect on both.
