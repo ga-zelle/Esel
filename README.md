@@ -1,8 +1,8 @@
 # Esel smoothing parameters
 
 Purpose	
-1	Test the impact of modifying the smoothing parameters 
-2	See the effect of adding „descent facor“ as a further smoothing parameter 
+1.	Test the impact of modifying the smoothing parameters 
+2.	See the effect of adding „descent facor“ as a further smoothing parameter 
 	which in cases of falling blood sugar will draw the smoothed values down towards the raw data. 
 	This helps to avoid excessive insulin dosing due to otherwise overestimating blood sugar values.
 	
